@@ -11,4 +11,4 @@ The deployed web app can be accessed [here](https://fyle-frontend-ap.netlify.app
 > npm install
  - Run the following command to start the application
 > npm start
-- The application will run on [http;//localhost:3000](http://localhost:3000)
+- The application will run on [http://localhost:3000](http://localhost:3000)
